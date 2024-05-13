@@ -28,7 +28,6 @@ class MyDocument extends Document {
         </Head>
         <body>
           <Main />
-              <p>This is a new paragraph added to the page.</p>
           <NextScript /
         </body>
       </Html>
