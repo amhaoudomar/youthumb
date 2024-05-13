@@ -24,11 +24,11 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
           <script async="async" data-cfasync="false" src="//pl23305649.highcpmgate.com/fc823d6daface227e005096cf0875f2f/invoke.js"></script>
-<div id="container-fc823d6daface227e005096cf0875f2f"></div>   
+<div id="container-fc823d6daface227e005096cf0875f2f"></div>
         </Head>
         <body>
           <Main />
-          <NextScript /
+          <NextScript />
         </body>
       </Html>
     );
