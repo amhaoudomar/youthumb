@@ -23,8 +23,16 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5442727192603025"
-     crossorigin="anonymous"></script>
+          <script type="text/javascript">
+	atOptions = {
+		'key' : '5f88d1cf0b0f8253f8cedc2ce6a10bf3',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.topcreativeformat.com/5f88d1cf0b0f8253f8cedc2ce6a10bf3/invoke.js"></script>
         </Head>
         <body>
           <Main />
