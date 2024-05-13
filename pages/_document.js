@@ -23,16 +23,8 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-          <script type="text/javascript">
-	atOptions = {
-		'key' : '5f88d1cf0b0f8253f8cedc2ce6a10bf3',
-		'format' : 'iframe',
-		'height' : 300,
-		'width' : 160,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.topcreativeformat.com/5f88d1cf0b0f8253f8cedc2ce6a10bf3/invoke.js"></script>
+          <script async="async" data-cfasync="false" src="//pl23305649.highcpmgate.com/fc823d6daface227e005096cf0875f2f/invoke.js"></script>
+<div id="container-fc823d6daface227e005096cf0875f2f"></div>
         </Head>
         <body>
           <Main />
